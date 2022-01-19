@@ -1,0 +1,51 @@
+// TV
+.tv {
+    margin-top: 20px;
+    height: 420px;
+
+      p {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        font-family: 'Mochiy Pop P One', sans-serif;
+        font-size: 15px;
+        transition: 0.5s;
+    }
+}
+
+.pEffect {
+    color: lightpink;
+}
+
+.pImage {
+  background: url("../images/Valhalla.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 410px;
+}
+
+.pImage2 {
+  background: url("../images/nfsu2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 410px;
+}
+
+.pImage3 {
+  background: url("../images/warcraft3.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 410px;
+}
+
+.pImage4 {
+  background: url("../images/minecraft.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 410px;
+}
